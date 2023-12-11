@@ -1,2 +1,6 @@
 # blockbuster
-blockbuster movie search engine using JavaScript
+Custom Blockbuster movie search engine using JavaScript/CSS/HTML
+
+##Movie box art and data taken from theMovieDB.org
+
+
